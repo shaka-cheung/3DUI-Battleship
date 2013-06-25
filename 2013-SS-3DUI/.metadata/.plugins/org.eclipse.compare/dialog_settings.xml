@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="PatchWizard">
+		<item value="2" key="PatchWizardPage1.INPUT_METHOD"/>
+		<item value="772" key="DIALOG_WIDTH"/>
+		<item value="12" key="DIALOG_Y_ORIGIN"/>
+		<item value="701" key="DIALOG_HEIGHT"/>
+		<item value="253" key="DIALOG_X_ORIGIN"/>
+		<item value="" key="PatchWizardPage1.WORKSPACE_PATH"/>
+		<item value="/home/alfonso/tum/semesters/ss2013/3dui/3DUI-Battleship/2013-SS-3D-UI-Ex-2-Bundle.zip" key="PatchWizardPage1.PATCH_FILES"/>
+		<item value="1|Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<list key="PatchWizardPage1.PATCH_URLS">
+			<item value=""/>
+		</list>
+		<list key="PatchWizardPage1.PATCH_FILES">
+			<item value="/home/alfonso/tum/semesters/ss2013/3dui/3DUI-Battleship/2013-SS-3D-UI-Ex-2-Bundle.zip"/>
+		</list>
+	</section>
+	<section name="PreviewPatchPage">
+		<item value="false" key="generateRejects"/>
+		<item value="true" key="expandPatchOptions"/>
+	</section>
+</section>
